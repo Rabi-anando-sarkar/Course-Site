@@ -1,0 +1,17 @@
+
+.container-footer {
+    max-width: auto;
+    padding: 2.8rem 1.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #646cff;
+}
+
+.footer-para {
+    text-transform: capitalize;
+    font-size: 1.8rem;
+    line-height: 1.56;
+    letter-spacing: 0.2rem;
+    word-spacing: 0.06rem;
+}
